@@ -11,11 +11,10 @@ import {
 } from "react-native";
 
 const user = {
-  id: "u1",
-  username: "VadimNotJustDev",
-  name: "Vadim",
-  image:
-    "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/vadim.png",
+  id: 'u8',
+  username: 'Giovanni_Rossi',
+  name: 'Giovanni Rossi',
+  image: 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs1.1zoom.me%2Fb4451%2F251%2FSicily_Italy_Coast_Houses_Boats_Sea_Scopello_Crag_518296_1920x1080.jpg&f=1&nofb=1&ipt=9979ba5b1e74938cd6ae85517112d53c1361e25cf51a7dc299c8de3bc8a9face&ipo=images',
 };
 
 export default function NewTweet() {
